@@ -157,3 +157,21 @@ code {
         padding-left: 25px;
     }
 }
+
+/* Images */
+img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 25px;
+    border-radius: 6px;
+    border: 1px solid #e0e3e8;
+}
+
+/* Videos */
+video {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 25px;
+    border-radius: 6px;
+    border: 1px solid #e0e3e8;
+}
