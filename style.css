@@ -325,3 +325,33 @@ video {
         font-size: 1.4em;
     }
 }
+
+
+/* Footer Styling */
+footer {
+    background: linear-gradient(135deg, #1a365d 0%, #2c5aa0 100%);
+    color: #ffffff;
+    text-align: center;
+    padding: 30px 20px;
+    margin-top: 50px;
+    box-shadow: 0 -4px 10px rgba(0, 0, 0, 0.1);
+}
+
+footer p {
+    margin: 8px 0;
+    color: #ffffff;
+    font-size: 1em;
+}
+
+footer p:first-child {
+    font-weight: 600;
+    font-size: 1.1em;
+    margin-bottom: 5px;
+}
+
+footer p:last-child {
+    font-weight: 500;
+    color: #e8eef3;
+    letter-spacing: 0.5px;
+}
+
